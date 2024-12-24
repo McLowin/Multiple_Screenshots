@@ -1,4 +1,4 @@
-# MultipleScreenshots
+![Extension logo](icons/logo.png)
 
 **MultipleScreenshots** is a versatile Chrome extension designed to streamline the process of capturing screenshots from multiple URLs effortlessly. With this extension, users can paste a list of URLs, and MultipleScreenshots will open each one, take a screenshot, and save it according to your specified preferences.
 
