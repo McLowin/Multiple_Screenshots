@@ -40,8 +40,7 @@
 
 ## Screenshots
 
-![Extension Popup](icons/demo_1.png)![Extension Popup](icons/Demo_2.png)
-
+![Extension Popup](icons/demo_1.png)
 
 ---
 
