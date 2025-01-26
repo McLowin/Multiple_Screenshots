@@ -2,7 +2,7 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
-## [0.1.2] - 2025-01-16
+## [0.1.2] - 2025-01-26
 ### Added
 - WebP format support: Replaced GIF with WebP, providing better image quality and smaller file sizes.
 - Optional **path** column in CSV: Allows users to include full file paths in the CSV for better file organization.
