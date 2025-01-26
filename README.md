@@ -10,6 +10,8 @@
 - **Flexible File Names**: Specify custom file names or use default naming conventions.
 - **Multiple Screenshot Formats**: Save screenshots in PNG, JPG, PDF, or GIF formats.
 - **CSV Generation**: Automatically create a CSV file mapping URLs to their corresponding filenames.
+- **Path Column in CSV**: Add an optional column in the CSV to specify the full file path for easier organization.
+- **URL & Timestamp Overlay**: Add a URL and timestamp overlay to your screenshots for reference.
 - **Full-Screen Mode**: Take screenshots in full-screen mode for better visibility.
 
 ---
@@ -30,13 +32,16 @@
    - Delay (in seconds)
    - Screenshot formats
    - File naming conventions
+   - Enable **path** column in CSV by providing your download path in Setting tab (optional)
+   - Add URL and timestamp overlay to screenshots (optional)
 4. Click the **Make Screenshots** button to start the process.
 
 ---
 
 ## Screenshots
 
-![Extension Popup](icons/demo-popup.png)
+![Extension Popup](icons/demo_1.png)![Extension Popup](icons/Demo_2.png)
+
 
 ---
 
