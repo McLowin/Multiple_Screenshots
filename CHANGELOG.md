@@ -2,6 +2,14 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.1.3] – 2025-03-11
+### Added
+- **Fullpage screenshots**: Capture the entire webpage, including content not visible on the screen, by automatically scrolling.
+- **Filename options**:
+  - Use the full URL as the filename.
+  - Use the domain as the filename.
+  - Custom filenames.
+
 ## [0.1.2] - 2025-01-26
 ### Added
 - WebP format support: Replaced GIF with WebP, providing better image quality and smaller file sizes.
