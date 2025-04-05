@@ -16,7 +16,8 @@
 - **URL & Timestamp Overlay**: Add a URL and timestamp overlay to your screenshots for reference.
 - **Full-Screen Mode**: Take screenshots in full-screen mode for better visibility.
 - **Full-Page Mode**: Take screenshots of full page.
-
+- **Clip to XPath**: Crop screenshots to a specific element by providing its XPath.
+- **Visual XPath Picker Tool**: Click a button to visually select an element on a webpage. The extension captures its XPath and makes it available for cropping screenshots.
 ---
 
 ## Installation
@@ -73,8 +74,31 @@
 
 ![image](https://github.com/user-attachments/assets/a49801ff-4ecd-4254-b942-740d8acbebf0)
 
+---
 
-### 7. Generate CSV
+### 7. XPath Settings
+In the Settings tab, you can:
+- Manually enter an XPath and save it with a label for future use.
+- Use the Select XPath Manually button to visually pick an element on the currently active page — the XPath will be auto-filled and can be saved with a custom name.
+  
+### 8. XPath Picker Tool
+The Select XPath Manually button allows you to visually select any element on the open webpage:
+- Hover will highlight elements.
+- Click to select — the XPath is automatically retrieved.
+- A confirmation alert appears, and the XPath is auto-filled back into the extension interface (even after reopening).
+- You can then save it under a custom label for repeated use.
+  
+### 9. Clip to XPath (Crop Screenshot to Element)
+Use this feature to crop the screenshot to a specific part of the page by:
+- Selecting a saved XPath from the dropdown.
+
+Enable the "Clip to XPath" checkbox. The extension will attempt to crop the screenshot to the selected element.
+- If the XPath exists on the page, the screenshot will be cropped precisely.
+- If the XPath is not found, a normal screenshot will be taken instead as fallback.
+  
+---
+
+### 10. Generate CSV
 <p>Automatically create a CSV file mapping each URL to its screenshot filename and optionally the full file path, ideal for batch processing and record keeping.</p>
 
 ---
