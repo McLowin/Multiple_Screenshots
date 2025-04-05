@@ -2,6 +2,11 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.1.4] - 2025-04-05
+### Added
+- **Clip Screenshots to Element by XPath**: Precisely crop screenshots to just the part of the page you need by selecting or saving XPath targets.
+- **XPath Selector Tool**: New interactive tool lets users visually select elements on a webpage. The corresponding XPath is saved and ready to use for cropped screenshots.
+
 ## [0.1.3] – 2025-03-11
 ### Added
 - **Fullpage screenshots**: Capture the entire webpage, including content not visible on the screen, by automatically scrolling.
