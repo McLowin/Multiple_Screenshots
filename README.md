@@ -2,9 +2,9 @@
 
 **MultipleScreenshots** is a versatile Chrome extension designed to streamline the process of capturing screenshots from multiple URLs effortlessly. With this extension, users can paste a list of URLs, and MultipleScreenshots will open each one, take a screenshot, and save it according to your specified preferences.
 
----
+![image](https://github.com/user-attachments/assets/65da2a57-9baa-4405-bc7b-12b1278205e1)
 
-![image](https://github.com/user-attachments/assets/8391f7cd-55e9-4e61-9340-2c77aabfaee3)
+---
 
 ## Key Features
 
@@ -80,6 +80,8 @@
 In the Settings tab, you can:
 - Manually enter an XPath and save it with a label for future use.
 - Use the Select XPath Manually button to visually pick an element on the currently active page — the XPath will be auto-filled and can be saved with a custom name.
+
+![image](https://github.com/user-attachments/assets/05282949-9bcb-4771-9d28-28813fdf0076)
   
 ### 8. XPath Picker Tool
 The Select XPath Manually button allows you to visually select any element on the open webpage:
@@ -87,10 +89,14 @@ The Select XPath Manually button allows you to visually select any element on th
 - Click to select — the XPath is automatically retrieved.
 - A confirmation alert appears, and the XPath is auto-filled back into the extension interface (even after reopening).
 - You can then save it under a custom label for repeated use.
+
+![image](https://github.com/user-attachments/assets/2deec07f-1e41-4e06-8857-28bc51c311a6)
   
 ### 9. Clip to XPath (Crop Screenshot to Element)
 Use this feature to crop the screenshot to a specific part of the page by:
 - Selecting a saved XPath from the dropdown.
+
+![image](https://github.com/user-attachments/assets/82dfb870-8a61-49ea-9b53-29c9d53220fb)
 
 Enable the "Clip to XPath" checkbox. The extension will attempt to crop the screenshot to the selected element.
 - If the XPath exists on the page, the screenshot will be cropped precisely.
