@@ -2,6 +2,10 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.1.5] - 2025-04-09
+### Fixed
+- **Domain opening bug**: Fixed bug with opening only domains.
+
 ## [0.1.4] - 2025-04-05
 ### Added
 - **Clip Screenshots to Element by XPath**: Precisely crop screenshots to just the part of the page you need by selecting or saving XPath targets.
