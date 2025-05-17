@@ -2,6 +2,15 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.1.7] - 2025-05-17
+### Added
+- **New features notifications system**
+- **Highlight element by XPath**: You can now highlight elements in your screenshots using a saved XPath. The extension will automatically scroll to the element on the page and draw a red frame around it — no cropping required. If the XPath is not found on a given page, a regular screenshot will be taken instead - so the workflow stays smooth.
+
+## [0.1.6] - 2025-05-02
+### Fixed
+- Fixed small bugs.
+
 ## [0.1.5] - 2025-04-09
 ### Fixed
 - **Domain opening bug**: Fixed bug with opening only domains.
