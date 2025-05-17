@@ -92,16 +92,24 @@ The Select XPath Manually button allows you to visually select any element on th
 
 ![image](https://github.com/user-attachments/assets/2deec07f-1e41-4e06-8857-28bc51c311a6)
   
-### 9. Clip to XPath (Crop Screenshot to Element)
+### 9. Clip image to XPath (Crop Screenshot to Element)
 Use this feature to crop the screenshot to a specific part of the page by:
 - Selecting a saved XPath from the dropdown.
 
-![image](https://github.com/user-attachments/assets/82dfb870-8a61-49ea-9b53-29c9d53220fb)
-
-Enable the "Clip to XPath" checkbox. The extension will attempt to crop the screenshot to the selected element.
+Enable the "Clip image to XPath" checkbox. The extension will attempt to crop the screenshot to the selected element.
 - If the XPath exists on the page, the screenshot will be cropped precisely.
 - If the XPath is not found, a normal screenshot will be taken instead as fallback.
-  
+
+### 10. Highlight element on screenshot (Highlight element by xpath)
+Use this feature to highlight chosen element on screenshot:
+- Selecting a saved XPath from the dropdown.
+
+Enable the "Highlight element by xpath" checkbox. The extension will attempt to scroll into chosen element by xpath and make the screenshot with framed selected element.
+- If the XPath exists on the page, the screenshot will frame element precisely.
+- If the XPath is not found, a normal screenshot will be taken instead as fallback.
+
+![image](https://github.com/user-attachments/assets/c85ff0cf-150b-4b96-bd6b-95397b87d1a6)
+
 ---
 
 ### 10. Generate CSV
