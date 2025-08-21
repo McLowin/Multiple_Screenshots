@@ -2,6 +2,22 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.2.0] - 2025-08-21
+### Added
+- **Window Mode**: Open the extension in a dedicated standalone window instead of a small popup bubble.  
+  Provides more workspace and stability when managing long URL lists or advanced settings.  
+  Clicking the extension icon now focuses the existing window instead of opening duplicates.
+- **Auto Capture**: Schedule screenshots at regular intervals.  
+  Makes it possible to monitor websites continuously, track changes over time, and combine with all other features (e.g. API Upload, full-page mode).  
+  Includes instant STOP button for full control.
+- **API Upload**: Alternative to local saving.  
+  Screenshots can now be sent directly to a configured API endpoint, in either:
+  - **JSON mode** (base64 inside JSON payload)  
+  - **Multipart/form-data mode** (binary file upload).  
+  Allows direct integration with backends, monitoring tools, or automated workflows.
+### Fixed
+- Improved **fullpage screenshots**: smoother scrolling, extra wait time for dynamic content, and no duplicated sections.
+
 ## [0.1.7] - 2025-05-17
 ### Added
 - **New features notifications system**
