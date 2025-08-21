@@ -8,8 +8,7 @@ This file contains a record of updates and changes made to the MultipleScreensho
   Provides more workspace and stability when managing long URL lists or advanced settings.  
   Clicking the extension icon now focuses the existing window instead of opening duplicates.
 - **Auto Capture**: Schedule screenshots at regular intervals.  
-  Makes it possible to monitor websites continuously, track changes over time, and combine with all other features (e.g. API Upload, full-page mode).  
-  Includes instant STOP button for full control.
+  Makes it possible to monitor websites continuously, track changes over time, and combine with all other features (e.g. API Upload).  
 - **API Upload**: Alternative to local saving.  
   Screenshots can now be sent directly to a configured API endpoint, in either:
   - **JSON mode** (base64 inside JSON payload)  
