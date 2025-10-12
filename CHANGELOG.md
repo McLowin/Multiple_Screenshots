@@ -2,6 +2,15 @@
 
 This file contains a record of updates and changes made to the MultipleScreenshots Chrome extension.
 
+## [0.2.1] - 2025-10-12
+### Changed
+- **Window Mode**: Native window mode is no longer the default due to user issues with flickering and blocked windows.  
+  Now you can open the extension in a dedicated window manually via the "Window mode" button in the popup.  
+  This approach is more stable and especially recommended for auto-capture and long-running tasks.
+### Fixed
+- Resolved all problems with flickering or blocked extension windows when using window mode.
+- Improved user experience: you can now easily switch between popup and window mode as needed.
+
 ## [0.2.0] - 2025-08-21
 ### Added
 - **Window Mode**: Open the extension in a dedicated standalone window instead of a small popup bubble.  
