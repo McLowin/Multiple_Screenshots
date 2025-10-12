@@ -2,7 +2,7 @@
 
 **MultipleScreenshots** is a versatile Chrome extension designed to streamline the process of capturing screenshots from multiple URLs effortlessly. With this extension, users can paste a list of URLs, and MultipleScreenshots will open each one, take a screenshot, and save it according to your specified preferences.
 
-<img width="631" height="888" alt="image" src="https://github.com/user-attachments/assets/f4462ef0-4b20-423f-a7a8-39f6e487be67" />
+<img width="631" height="889" alt="image" src="https://github.com/user-attachments/assets/2b1f5094-4a6b-47dd-9e11-56189bd1789e" />
 
 ---
 
@@ -40,7 +40,7 @@
 This gives you more space, stability and comfort — especially useful when working with long URL lists or advanced settings.  
 Once enabled, clicking the extension icon will always focus the existing window instead of opening a new one, ensuring a clean and consistent workflow.  
 
-<img width="631" height="83" alt="image" src="https://github.com/user-attachments/assets/bffd29f4-b79c-4879-b906-77c3e6ef812a" />
+<img width="591" height="82" alt="image" src="https://github.com/user-attachments/assets/08466aaf-c10a-492b-b725-6c9342e57b93" />
 
 ### 2. Auto-capture
 
@@ -97,9 +97,9 @@ The process can be stopped instantly at any moment with the STOP button.</p>
 <p>Specify a custom path for your screenshot downloads in the <strong>Settings</strong> tab. Remember, this path should match Chrome’s download directory. It only adds the path text itself and connects it to the file name in the generated csv. If we provide the same path that we have set in Chrome Downloads, it makes it easier to create file paths and the entire analysis.
  </p>
 
-<img width="631" height="858" alt="image" src="https://github.com/user-attachments/assets/b313cc26-01cb-4f47-b1eb-0bc4c356c912" />
+<img width="628" height="854" alt="image" src="https://github.com/user-attachments/assets/b5e692a3-51a0-496b-8a7f-1cb33cdc7b10" />
 
-<img width="632" height="860" alt="image" src="https://github.com/user-attachments/assets/9ffefc76-1dec-47a1-b2c8-cfe10d0ae490" />
+<img width="628" height="832" alt="image" src="https://github.com/user-attachments/assets/8fac4727-65a8-43fe-a0f2-7ffa44dcb0df" />
 
 ![image](https://github.com/user-attachments/assets/a49801ff-4ecd-4254-b942-740d8acbebf0)
 
